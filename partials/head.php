@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="fr">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,7 +8,6 @@
     <link rel="stylesheet" href="/public/css/style.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </head>
-
 <body>
     <header>
         <nav class="navbar bg-body-tertiary">
@@ -18,7 +16,7 @@
                     <img src="/public/img/logo-Rolls-Royce-2020.png" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
                     Racer Royal
                 </a>
-                <button type="button" class="btn btn-primary">Home</button>
+                <button href="/index.php" type="button" class="btn btn-primary">Home</button>
             </div>
         </nav>
     </header>
