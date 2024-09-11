@@ -1,5 +1,4 @@
 <?php include_once(__DIR__ . '/partials/head.php');
-    include_once(__DIR__ . '/formulaire.php');
     require 'data.php';
     var_dump($cars);
 
@@ -27,6 +26,7 @@
     }else{
         echo "<h1>Il n'ya pas de voitures</h1>";
     }
-
-
+            ?>
+            <a href="formulaire.php">Le formulaire</a>
+<?php
 include_once(__DIR__ . '/partials/footer.php');
