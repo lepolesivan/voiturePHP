@@ -10,7 +10,7 @@
             'id' => 2,
             'name' => 'MercedesAmgS63',
             'price' => 130000,
-            'picture' => 'mercedes-amg-s63'
+            'picture' => 'mercedes-amg-s63.jpg'
         ),
         array(
             'id' => 3,
